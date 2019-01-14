@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Apartment_Manager_Qt">
+        <file>Resources/ap.png</file>
+    </qresource>
+</RCC>
